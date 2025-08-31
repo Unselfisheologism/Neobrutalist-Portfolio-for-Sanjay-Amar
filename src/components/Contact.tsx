@@ -38,30 +38,9 @@ export function Contact() {
             </div>
           </div>
           <div>
-            <form className="bg-white text-black p-8 border-4 border-yellow-400 transform rotate-1">
-              <h3 className="text-2xl font-bold mb-6">Send a Message</h3>
-              <div className="mb-4">
-                <label className="block font-bold mb-2" htmlFor="name">
-                  NAME
-                </label>
-                <input type="text" id="name" className="w-full p-3 border-4 border-black focus:border-yellow-400 outline-none" placeholder="Your Name" />
-              </div>
-              <div className="mb-4">
-                <label className="block font-bold mb-2" htmlFor="email">
-                  EMAIL
-                </label>
-                <input type="email" id="email" className="w-full p-3 border-4 border-black focus:border-yellow-400 outline-none" placeholder="Your Email" />
-              </div>
-              <div className="mb-4">
-                <label className="block font-bold mb-2" htmlFor="message">
-                  MESSAGE
-                </label>
-                <textarea id="message" rows={4} className="w-full p-3 border-4 border-black focus:border-yellow-400 outline-none resize-none" placeholder="Your Message"></textarea>
-              </div>
-              <button type="submit" className="bg-black text-white px-8 py-3 font-bold text-lg border-4 border-black hover:bg-yellow-400 hover:text-black transition-colors">
-                SEND MESSAGE
-              </button>
-            </form>
+            <a href="mailto:jeffrinjames99@gmail.com" className="bg-black text-white px-10 py-6 font-extrabold text-2xl block border-4 border-black hover:bg-yellow-400 hover:text-black transition-colors text-center">
+              EMAIL ME
+            </a>
           </div>
         </div>
       </div>
