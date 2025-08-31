@@ -14,8 +14,7 @@ export function Hero() {
               <span className="text-yellow-400">AMAR</span>
             </h1>
             <p className="text-xl mb-8 max-w-lg border-l-4 border-yellow-400 pl-4">
-              Creating compelling narratives through words and visuals.
-              Exploring human stories that challenge and inspire.
+              Creating compelling narratives through words and visuals. Exploring human stories that challenge and inspire.
             </p>
             <div className="flex flex-wrap gap-4">
               <a href="#work" className="bg-white text-black px-8 py-4 font-bold text-lg border-4 border-black transform hover:-translate-y-1 transition-transform">
@@ -26,9 +25,9 @@ export function Hero() {
               </a>
             </div>
           </div>
-          <div className="hidden md:flex justify-center items-center">
+          <div className="justify-center items-center">
             <div className="w-full h-[500px] bg-gray-800 border-8 border-white relative overflow-hidden">
-              <img src="https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="Sanjay Amar" className="w-full h-full object-cover" />
+              <img src="https://res.cloudinary.com/ddz3nsnq1/image/upload/v1756648160/images_1_axoe23.webp" alt="Sanjay Amar" className="w-full h-full object-cover" />
               <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-70 p-4">
                 <p className="text-white font-bold">
                   Storyteller. Visionary. Creator.
