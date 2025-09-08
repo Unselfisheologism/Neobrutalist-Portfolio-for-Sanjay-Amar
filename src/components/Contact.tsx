@@ -38,7 +38,7 @@ export function Contact() {
             </div>
           </div>
           <div>
-            <a href="mailto:jeffrinjames99@gmail.com" className="bg-black text-white px-10 py-6 font-extrabold text-2xl block border-4 border-black hover:bg-yellow-400 hover:text-black transition-colors text-center">
+            <a href="mailto:amarkichitthi@gmail.com" className="bg-black text-white px-10 py-6 font-extrabold text-2xl block border-4 border-black hover:bg-yellow-400 hover:text-black transition-colors text-center">
               EMAIL ME
             </a>
           </div>
